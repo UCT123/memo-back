@@ -1,0 +1,24 @@
+{
+  "name": "memo-back",
+  "version": "1.0.0",
+  "description": "Back",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start":"node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UCT123/memo-back.git"
+  },
+  "author": "Uriel Thoma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UCT123/memo-back/issues"
+  },
+  "homepage": "https://github.com/UCT123/memo-back#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
